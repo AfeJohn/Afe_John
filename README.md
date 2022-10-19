@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="300"/>
 </div>
     
-<h1>Welcome To AFE JOHN IBUKUN'S Profile👽</h1>
+<h1>Welcome To AFE JOHN IBUKUN'S Profile😌</h1>
 
 
 ###   **My current role in tech:** </h2>
