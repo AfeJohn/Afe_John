@@ -13,16 +13,14 @@
 
 #### Contact me on 
 <a href="https://www.linkedin.com/in/afe-john/"><img src="https://cdn.freebiesupply.com/logos/large/2x/linkedin-icon-logo-png-transparent.png" width="60" /></a>
-<a href="https://twitter.com/AfeJohn4"><img src="https://1000logos.net/wp-content/uploads/2021/04/Twitter-logo-768x432.png" height="60" width="100" /></a>
 <a href="https://www.instagram.com/harfey_j/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/330px-Instagram_logo_2022.svg.png" width="70" /></a>
 
 
 #### About
 Here are some basic things to know about AFE JOHN IBUKUN;
 
-- 🔭 I’m currently working on acquiring new skills,
-- 🌱 I’m currently exploring Machine Learning,
-- 👯 I’m looking for help with expanding data science community in my area,
+- 🔭 I continue to sharpen my skills as technology is dynamic,
+- 🌱 I’m still curious about the Machine Learning environment,
 - 📧 Email: afejohnibk@gmail.com, 
 - 📞 Phone: +2348146216145,
 - 🙂 Pronouns: He/Him/His,
