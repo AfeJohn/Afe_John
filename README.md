@@ -8,7 +8,7 @@
 
 
 ###   **My current role in tech:** </h2>
-       { Data Scientist | Data Engineer | Front-end developer } 
+       { Data Scientist | Machine Learning Engineer } 
 
 
 #### Contact me on 
