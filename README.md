@@ -28,7 +28,7 @@ Here are some basic things to know about AFE JOHN IBUKUN;
 
 #### My Core Languages
 <code><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" width="60" title="Python" /></code>
-<code><img src="[https://logos-download.com/wp-content/uploads/2019/01/JavaScript_Logo-700x700.png](https://storeassets.im-cdn.com/products/6c0e5f/L3S7mBxGSHq7bJ93exyM_sql2-compressed-1_0x0_webp.jpg)" width="60" title="SQL" /></code>
-<code><img src="[https://1.bp.blogspot.com/-NGHwBncyA68/UiMm_8b2ZUI/AAAAAAAAAnA/17OGXCKI4zE/s320/Logo+HTML5.JPG](https://xuri.me/wp-content/uploads/2016/03/apache-spark-logo.png)" width="60" height="60" title="Apache Spark" /></code>
-<code><img src="[https://velog.velcdn.com/images/dojunggeun/post/ce6ae90b-21d8-47d9-b437-b86cd5ec5e53/css.png](https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo-700x394.png)" width="60" height="60" title="Power BI" /></code>
+<code><img src="https://storeassets.im-cdn.com/products/6c0e5f/L3S7mBxGSHq7bJ93exyM_sql2-compressed-1_0x0_webp.jpg" width="60" title="SQL" /></code>
+<code><img src="https://xuri.me/wp-content/uploads/2016/03/apache-spark-logo.png" width="60" height="60" title="Apache Spark" /></code>
+<code><img src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo-700x394.png" width="60" height="60" title="Power BI" /></code>
 
